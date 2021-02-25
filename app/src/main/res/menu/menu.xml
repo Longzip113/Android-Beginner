@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        android:id="@+id/menusearch"
+        />
+    <item android:title="Settings"
+        android:orderInCategory="1"
+        android:id="@+id/menusettings"
+        />
+
+    <item android:title="Support"
+        android:orderInCategory="3"
+        android:id="@+id/menusuppots"
+        >
+        <menu>
+            <item android:title="Constact"
+                android:id="@+id/menuconstact"
+                />
+        </menu>
+    </item>
+
+    <item android:title="Exit"
+        android:id="@+id/menuexit"
+        android:orderInCategory="2"
+        />
+
+</menu>
