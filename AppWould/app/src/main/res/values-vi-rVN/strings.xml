@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng dụng toàn cầu</string>
+    <string name="app_username">Tên người dùng</string>
+    <string name="app_email">Địa chỉ Email</string>
+    <string name="app_passWord">Mật khẩu</string>
+    <string name="app_btnSummit">Gửi</string>
+    <string name="app_titleApp">Nhập thông tin</string>
+</resources>
